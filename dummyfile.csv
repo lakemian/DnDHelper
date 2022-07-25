@@ -1,0 +1,101 @@
+Name,Category,Weight,Cost,Properties,Roll_hi,Roll_lo
+Azurite,Gemstone,--,10gp,Opaque mottled deep blue.,1,1
+Banded Agate,Gemstone,--,10gp,Translucent brown red white or blue,2,2
+Blue quartz,Gemstone,--,10gp,Transparent pale blue.,3,3
+Eye agate,Gemstone,--,10gp,Translucent circles of gray white brown blue or green,4,4
+Hematite,"Gemstone""",--,10gp,Opaque gray-black.,5,5
+Lapis lazuli,Gemstone,--,10gp,Opaque light and dark blue w/ yellow flecks.,6,6
+Malachite,Gemstone,--,10gp,Opaque striated light and dark green.,7,7
+Moss agate,Gemstone,--,10gp,Translucent pink or yellow-white with mossy gray or green markings.,8,8
+Obsidian,Gemstone,--,10gp,Opaque black.,9,9
+Rhodochrosite,Gemstone,--,10gp,Opaque light pink.,10,10
+Tiger eye,Gemstone,--,10gp,translucent brown with golden center.,11,11
+Rhodochrosite,Gemstone,--,10gp,Opaque light pink.,12,12
+Bloodstone,Gemstone,--,50gp,Opaque light pink.,1,1
+Carnelian,Gemstone,--,50gp,Opaque orange to red-brown.,2,2
+Chalcedony,Gemstone,--,50gp,Opaque white.,3,3
+Chrysoprase,Gemstone,--,50gp,Translucent green.,4,4
+Citrine,Gemstone,--,50gp,Tranparent pale yellow-brown.,5,5
+Jasper,Gemstone,--,50gp,Opaque blue black or brown,6,6
+Moonstone,Gemstone,--,50gp,Translucent white with pale blue glow.,7,7
+Onyx,Gemstone,--,50gp,Opaque bands of black and white or pure black and white,8,8
+Quartz,Gemstone,--,50gp,Transparent white smoky gray or yellow,9,9
+Sardonyx,Gemstone,--,50gp,Opaque bands of red and white.,10,10
+Star rose quartz,Gemstone,--,50gp,Translucent rosy stone with white star-shaped center.,11,11
+Zircon,Gemstone,--,50gp,Transparent pale blue-green.,12,12
+Amber,Gemstone,--,100gp,Transparent watery gold to rich gold,1,1
+Amethyst,Gemstone,--,100gp,Transparent deep purple,2,2
+Chryseberyl,Gemstone,--,100gp,Transparent yellow-green to pale green,3,3
+Coral,Gemstone,--,100gp,Opaque crimson,4,4
+Garnet,Gemstone,--,100gp,Transparent red  brown-green  or violet,5,5
+Jade,Gemstone,--,100gp,Translucent light green  deep green  or white,6,6
+Jet,Gemstone,--,100gp,Opaque deep black,7,7
+Pearl,Gemstone,--,100gp,Opaque lustrous white  yellow  or pink,8,8
+Spinel,Gemstone,--,100gp,Transparent red  red-brown  or deep green,9,9
+Tourmaline,Gemstone,--,100gp,Transparent pale green  blue  brown  or red,10,10
+Alexandrite,Gemstone,--,500gp,Transparent dark green,1,1
+Aquamarine,Gemstone,--,500gp,Transparent pale blue-green.,2,2
+Black Pearl,Gemstone,--,500gp,Opaque pure black,3,3
+Blue spinel,Gemstone,--,500gp,Transparent deep blue,4,4
+Peridot,Gemstone,--,500gp,Transparent rich olive green,5,5
+Topaz,Gemstone,--,500gp,Transparent golden yellow,6,6
+Black opal,Gemstone,--,1000gp,Translucent dark green with black mottling and golden flecks,1,1
+Blue sapphire,Gemstone,--,1000gp,Transparent blue-white to medium blue,2,2
+Emerald,Gemstone,--,1000gp,Transparent deep bright green,3,3
+Fire opal,Gemstone,--,1000gp,Translucent firey red,4,4
+Opal,Gemstone,--,1000gp,Translucent pale blue with green and golden mottling,5,5
+Star ruby,Gemstone,--,1000gp,Translucent ruby with white star-shaped center,6,6
+Star sapphire,Gemstone,--,1000gp,Translucent blue sapphire with white star-shaped center,7,7
+Yellow sapphire,Gemstone,--,1000gp,Transparent firey yellow or yellow-green,8,8
+Black sapphire,Gemstone,--,5000gp,Translucent lustrous black with glowing highlights,1,1
+Diamond,Gemstone,--,5000gp,Transparent blue-white  canary  pink  brown  or blue,2,2
+Jacinth,Gemstone,--,5000gp,Transparent fiery orange,3,3
+Ruby,Gemstone,--,5000gp,Transparent clear red to deep crimson,4,4
+Silver ewer,Art Object,--,25gp,,1,1
+Carved bone statuette,Art Object,--,25gp,,2,2
+Small gold bracelet,Art Object,--,25gp,,3,3
+Cloth-of-gold vestments,Art Object,--,25gp,,4,4
+Black velvet mask stitched with silver thread,Art Object,--,25gp,,5,5
+Copper chalice with silver filingree,Art Object,--,25gp,,6,6
+Pair of engraved bone dice,Art Object,--,25gp,,7,7
+Small mirror set in a painted wooden frame,Art Object,--,25gp,,8,8
+Embroidered silk hankerchief,Art Object,--,25gp,,9,9
+Gold locket with a painted portrait inside,Art Object,--,25gp,,10,10
+Gold ring set with bloodstones,Art Object,--,250gp,,1,1
+Carved ivory statuette,Art Object,--,250gp,,2,2
+Large gold bracelet,Art Object,--,250gp,,3,3
+Silver necklace with a gemstone pendant,Art Object,--,250gp,,4,4
+Bronze crown,Art Object,--,250gp,,5,5
+Silk robe with gold embroidery,Art Object,--,250gp,,6,6
+Large well-made tapestry,Art Object,--,250gp,,7,7
+Brass mug with jade inlay,Art Object,--,250gp,,8,8
+box of turquoise animal figurines,Art Object,--,250gp,,9,9
+Gold bird cage with electrum filigree,Art Object,--,250gp,,10,10
+Silver chalice set with moonstones,Art Object,--,750gp,,1,1
+Silver-plated steel longsword with jet set in hilt,Art Object,--,750gp,,2,2
+Carved harp of exotic wood with ivory inlay and zircon gem,Art Object,--,750gp,,3,3
+Small gold idol,Art Object,--,750gp,,4,4
+Gold dragon comb set with red garnets as eyes,Art Object,--,750gp,,5,5
+Bottle stopper cork embossed with gold leaf and set with amethysts ,Art Object,--,750gp,,6,6
+Ceremonial electrum dagger with a black pearl in the pommel,Art Object,--,750gp,,7,7
+Silver and gold brooch,Art Object,--,750gp,,8,8
+Obsidian statuette with gold fittings and inlay,Art Object,--,750gp,,9,9
+Painted gold war mask,Art Object,--,750gp,,10,10
+Fine gold chain set with a fire opal,Art Object,--,2500gp,,1,1
+Old masterpiece painting,Art Object,--,2500gp,,2,2
+Embroidered silk and velvet mantle set with numerous moonstones,Art Object,--,2500gp,,3,3
+Platinum bracelet set with a sapphire,Art Object,--,2500gp,,4,4
+Embroidered glove set with jewel chips,Art Object,--,2500gp,,5,5
+Jeweled anklet,Art Object,--,2500gp,,6,6
+Gold music box,Art Object,--,2500gp,,7,7
+Gold circlet set with four aquamarines,Art Object,--,2500gp,,8,8
+Eye patch with a mock eye set in blue sapphire and moonstone,Art Object,--,2500gp,,9,9
+A necklace string of small pink pearls,Art Object,--,2500gp,,10,10
+Jeweled gold crown,Art Object,--,7500gp,,1,1
+Jeweled platinum ring,Art Object,--,7500gp,,2,2
+Small gold statuette set with rubies,Art Object,--,7500gp,,3,3
+Gold cup set with emeralds,Art Object,--,7500gp,,4,4
+Gold jewelry box with platinum filigree,Art Object,--,7500gp,,5,5
+Painted gold child's sarcophagus,Art Object,--,7500gp,,6,6
+Jade game board with solid gold playing pieces,Art Object,--,7500gp,,7,7
+Bejeweled ivory drinking horn with gold filigree,Art Object,--,7500gp,,8,8
